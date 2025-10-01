@@ -10,3 +10,8 @@ It differs as they must be accessed and hosted in different ways, as the way the
 
 ### 3. Why is it important to use environment variables for configurations in a cloud environment?
 As I said in lab 2, the reason for this is because using environment variables allows for, in the vast majority of cases, cleaner code that's easier to modify, as you can simply change the environment variables rather than sifting through all of your code and modifying each part, as well as better security, as you can hide important security details from users using environment variables while still letting the app function.
+
+## Github Repos
+- store front: https://github.com/Matthew-Parsons/store-front
+- order service: https://github.com/Matthew-Parsons/order-service
+- product service: https://github.com/Matthew-Parsons/product-service-python
