@@ -1,5 +1,5 @@
 # Youtube Video Link
-insert here
+https://youtu.be/o0B_LFmYWJI
 
 # Reflection Questions
 ## 1. What are the main differences between a Docker image and a Docker container?
