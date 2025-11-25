@@ -1,11 +1,12 @@
 # Youtube Link
-
+https://youtu.be/ZomokdPKaFA
 
 # Azure services that could replace MongoDB and RabbitMQ
-## MongoDB
-
+## MongoDB replacement
+CosmosDB: A fully managed NoSQL, relational, and vector database with built-in security, automatic scaling, and high availability. Has built-in support for MongoDB. 
 
 ## RabbitMQ
+Azure Service Bus: Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Supports a similar messaging model to rabbitMQ, but has automatic scaling, high availability, and backup protection in case of failure.
 
 # aps-all-in-one.yaml code for task 1
 
